@@ -1,0 +1,15 @@
+{
+# 微信公众号配置
+"app_id": "wxac508404ec84cd28",
+"app_secret": "f3c3e3b16372bb217de5c9b4e5c99ef4",
+"template_id": "fjXgs2ppYaJv1pNnm6od4br42KQsttSijDo3Ju6cfcI",
+"user": ["o5noy5zz4kfy_RKQJE9hnj2Hmto4","o5noy51RtHLLtqf8YOhWJQZGL8D0"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+# 信息配置
+"weather_key": "c9b2bbdc75604085a986a2916460dd39",
+"region": "深圳市", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"birthday1": {"name": "WQQ", "birthday": "1997-07-08"}, # 生日1，姓名和生日，生日若为农历在最前面加上r即可
+"birthday2": {"name": "小王同学", "birthday": "1997-07-08"}, # 生日2，同上
+
+"note_ch": "初见乍欢 久处仍砰然", # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_en": "WWWWWWWWWWWWWWiWWWWWWWWWWWWWWWWWWWWWWmissWWWWWWWWWWWWWWWWWWWWWyou!WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" # 金句英文
+}
